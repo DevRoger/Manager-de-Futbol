@@ -1,0 +1,8 @@
+FC Barcelona;1899;Barcelona;Camp Nou;Laporta;;0;0;0
+Juan;Antonio;FC Barcelona;02/07/1999;5.0;32000.0;2;false;2
+1
+Roger;Alonso;FC Barcelona;07/03/1987;5.0;45000.0;7;MED;10.0
+Real Madrid CF;1902;Madrid;Santiago Bernabeu;Florentino;;0;0;0
+null
+1
+Alex;Aznar;Real Madrid CF;23/08/1983;5.0;15000.0;2;POR;8.0
